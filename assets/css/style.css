@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400..800&family=Dancing+Script:wght@400..700&family=Noto+Sans+Bengali:wght@100..900&family=Noto+Serif+Bengali:wght@100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.baloo-2-  <  uniquifier > {
+    font-family: "Baloo 2", serif;
+    font-optical-sizing: auto;
+    font-weight: < weight >;
+    font-style: normal;
+}

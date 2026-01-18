@@ -1,0 +1,1 @@
+export { default } from "file:///home/devesh/Devesh_Personal/devesh-wedding-card/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
