@@ -1,7 +1,7 @@
 <template>
   <div class="flex justify-center overflow-x-hidden">
     <div class="overflow-x-hidden" :class="[
-      'relative h-[100vh] w-full md:w-[375px] flex items-start justify-center transition-all duration-700 pt-2',
+      'relative h-[100vh] w-full md:w-[375px] flex items-start justify-center transition-all duration-700 pt-16',
       { 'backdrop-blur-md': !showContent }
     ]">
       <!-- Background -->
